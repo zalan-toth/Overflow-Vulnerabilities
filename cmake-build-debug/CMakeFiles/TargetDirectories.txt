@@ -1,0 +1,3 @@
+/home/zalan/CLionProjects/SecureProgramming/cmake-build-debug/CMakeFiles/SecureProgramming.dir
+/home/zalan/CLionProjects/SecureProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zalan/CLionProjects/SecureProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
